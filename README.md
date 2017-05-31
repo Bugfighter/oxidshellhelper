@@ -1,6 +1,11 @@
 # oxidshellhelper
 Collection of Shell-Scripts for use with oxid
 
+:+1:
+:sparkles:
+:octocat:
+
+
 ##dumpwithoutviews
 Sometimes you want to dump the mysql database without the views Oxid uses for language support.
 Unfortunately mysqldump doesn't support an exclusion based on table type.
